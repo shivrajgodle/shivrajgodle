@@ -1,7 +1,7 @@
 <h1 align="center">Hello Programmers 👋, I'm SHIVRAJ</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-<h5>
--   💬 Currently working on Spring boot microservices, Angular and PostgreSQL</h5>
+<h4>
+-   💬 Currently working on Spring boot microservices, Angular and PostgreSQL</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivrajgodle&label=Profile%20views&color=0e75b6&style=flat" alt="shivrajgodle" /> </p>
 
