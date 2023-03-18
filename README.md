@@ -1,5 +1,5 @@
 <h1 align="center">Hello IT Professionals 👋, Welcome to My Github Account. Myself Shivraj Godle</h1>
-<h3 align="center">A SOftware Engineer based in India</h3>
+<h3 align="center">A Software Engineer based in India</h3>
 <h4><i>
   -   💬 Currently working on Angular framework, Java - Spring Boot framework and Mysql Database</i></h4>
 
