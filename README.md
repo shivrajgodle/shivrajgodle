@@ -1,7 +1,7 @@
 <h1 align="center">Hello Programmers 👋, I'm SHIVRAJ</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <h4><i>
-  -   💬 Currently working on  Angular, Micronaut, Spring Boot Microservices and Microsoft SQL Server</i></h4>
+  -   💬 Currently working on  Angular,Spring Boot, Mysql</i></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivrajgodle&label=Profile%20views&color=0e75b6&style=flat" alt="shivrajgodle" /> </p>
 
