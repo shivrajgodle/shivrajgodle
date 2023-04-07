@@ -1,4 +1,4 @@
-<h1 align="center">Welcome All , My name is Shivraj. I am software Engineer</h1>
+<h1 align="center">Welcome All , My Name Is Shivraj. I Am a Software Engineer</h1>
 <h3 align="center">A Software Engineer based in India</h3>
 <h4><i>
   -   💬 Currently working on Angular framework, Java - Spring Boot framework and Mysql Database</i></h4>
