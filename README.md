@@ -1,7 +1,7 @@
-<h1 align="center">Welcome All to My Github Page , Myself Shivraj</h1>
-<h3 align="center">A Software Engineer based in India</h3>
+<h1 align="center">Hello my name is Shivraj</h1>
+<h3 align="center">Software engineer with 2+ years of experience. Worked for innovative startups, large enterprise products. Familiar with both remote, and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable for web, mobile, and API development.</h3>
 <h4><i>
-  -   💬 Currently working on Angular framework, Java - Spring Boot framework and Mysql Database</i></h4>
+  -   💬 Currently working on Next JS , Angular framework, Java - Spring Boot framework and Mysql , MongoDB Database</i></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivrajgodle&label=Profile%20views&color=0e75b6&style=flat" alt="shivrajgodle" /> </p>
 
