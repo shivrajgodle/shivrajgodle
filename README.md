@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 my name is SHIVRAJ</h1>
+<h1 align="center">Hello 👋 My name is SHIVRAJ</h1>
 <h3 align="center">Software engineer with 2+ years of experience. Worked for innovative startups, large enterprise products. Familiar with both remote, and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable for web, mobile, and API development.</h3>
 <h4><i>
   -   💬 Currently working on Next JS , React Native , Angular framework, Java Spring Boot framework and Mysql , MongoDB Database</i></h4>
