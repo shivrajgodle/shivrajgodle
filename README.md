@@ -1,4 +1,4 @@
-<h1 align="center">SHIVRAJ</h1>
+<h1 align="center">👋 Hello! I am SHIVRAJ</h1>
 <h3 align="center">Software engineer with 3 years of experience. Worked for innovative startups, large enterprise products. Familiar with both remote, and in-office roles.</h3>
 <h4><i>
   -   💬 Currently working on Angular framework, Java Spring Boot framework and Mysql</i></h4>
