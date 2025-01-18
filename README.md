@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hello! I am SHIVRAJ</h1>
-<h3 align="center">Software engineer with 3 years of experience. Worked for innovative startups, large enterprise products. Familiar with both remote, and in-office roles.</h3>
+<h1 align="center">👋 Hello World , I am Shivraj Godle</h1>
+<h3 align="center">Senior Software engineer with 4 years of experience. Worked for innovative startups, large enterprise products. Familiar with both remote, and in-office roles.</h3>
 <h4><i>
-  -   💬 Currently working on Angular framework, Java Spring Boot framework and Mysql</i></h4>
+  -   💬 Currently working on Trending Technologies of the world such as EV Charging Ecosystem & AI </i></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivrajgodle&label=Profile%20views&color=0e75b6&style=flat" alt="shivrajgodle" /> </p>
 
