@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World , I am Shivraj Godle</h1>
-<h3 align="center">Senior Software engineer with 4 years of experience. Worked for innovative startups, large enterprise products. Familiar with both remote, and in-office roles.</h3>
+<h3 align="center">Senior Software engineer</h3>
 <h4><i>
   -   💬 Currently working on Trending Technologies of the world such as EV Charging Ecosystem & AI </i></h4>
 
