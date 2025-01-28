@@ -3,12 +3,6 @@
 <h4><i>
   -   💬 Currently working on Trending Technologies of the world such as EV Charging Ecosystem & AI </i></h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivrajgodle&label=Profile%20views&color=0e75b6&style=flat" alt="shivrajgodle" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivrajgodle" alt="shivrajgodle" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/shivrajgodle?tab=repositories](https://github.com/shivrajgodle?tab=repositories)
-
 - 📫 How to reach me **shivrajgodale@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
