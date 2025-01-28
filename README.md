@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello World , I am Shivraj Godle</h1>
-<h3 align="center">Senior Software engineer</h3>
+<h1 align="center">👋 Hello World</h1>
+<h3 align="center">I am Shivraj , currently working as Senior Software engineer</h3>
 <h4><i>
   -   💬 Currently working on Trending Technologies of the world such as EV Charging Ecosystem & AI </i></h4>
 
