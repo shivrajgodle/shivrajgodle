@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hello World</h1>
 <h3 align="center">I am Shivraj , currently working as Senior Software engineer</h3>
 <h4><i>
-  -   💬 Currently working on Trending Technologies of the world such as EV Charging Ecosystem & AI </i></h4>
-
 - 📫 How to reach me **shivrajgodale@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
