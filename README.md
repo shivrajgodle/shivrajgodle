@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Engineer | Full Stack Developer — Java, Spring Boot & Angular</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7941D&center=true&vCenter=true&width=600&lines=Building+scalable+microservices+%26+distributed+systems;Java+%7C+Spring+Boot+%7C+Angular+%7C+PostgreSQL+%7C+AWS;Automotive+Cybersecurity+%7C+EV+%7C+Fintech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7941D&center=true&vCenter=true&width=750&lines=Building+scalable+microservices+%26+distributed+systems;Java+%7C+Spring+Boot+%7C+Angular+%7C+PostgreSQL+%7C+AWS;Automotive+Cybersecurity+%7C+EV+%7C+Fintech" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -103,12 +103,12 @@ REST APIs and dynamic Angular UIs built on Spring Boot and MySQL. Includes templ
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivrajgodle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivrajgodle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivrajgodle&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivrajgodle&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivrajgodle&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
 </p>
 
 ---
@@ -116,7 +116,7 @@ REST APIs and dynamic Angular UIs built on Spring Boot and MySQL. Includes templ
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivrajgodle&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shivrajgodle&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
 </p>
 
 ---
