@@ -29,6 +29,22 @@
 
 ---
 
+### 🎯 Skill Proficiency
+
+<table>
+<tr><td width="140"><b>Java</b></td><td>████████████████░░░░ 80%</td></tr>
+<tr><td><b>Spring Boot</b></td><td>███████████████████░ 95%</td></tr>
+<tr><td><b>Angular</b></td><td>███████████████████░ 95%</td></tr>
+<tr><td><b>TypeScript / Node.js</b></td><td>████████████████████ 100%</td></tr>
+<tr><td><b>PostgreSQL / MySQL</b></td><td>███████████████░░░░░ 75%</td></tr>
+<tr><td><b>AWS</b></td><td>██████████████░░░░░░ 70%</td></tr>
+<tr><td><b>Docker</b></td><td>█████████████░░░░░░░ 65%</td></tr>
+</table>
+
+<sub><i>💡 Edit the percentages above to reflect your own self-assessment — these are placeholders.</i></sub>
+
+---
+
 ### 🚀 Featured Projects
 
 **🔐 CarAlert** — Cloud-based automotive vulnerability monitoring & alert platform
@@ -37,11 +53,25 @@ Continuous vulnerability tracking across the vehicle lifecycle, with structured 
 **⚡ EV Charging Station Management System (CSMS)** — OCPP-based EV charging platform
 Real-time dashboards, session analytics, and AI-powered fault-analysis chatbots. Built with Angular, Python Flask, PostgreSQL, and AWS (RDS, EC2, IoT Core, Lambda, Bedrock).
 
+<details>
+<summary><b>📋 More project details (click to expand)</b></summary>
+<br/>
+
 **🤖 Propulsion AI Tool** — CAPL script generation via AWS Bedrock
-Web-based AI automation platform using Angular, Python Flask, and AWS Bedrock for LLM-powered script generation.
+Web-based AI automation platform using Angular, Python Flask, and AWS Bedrock for LLM-powered script generation. Integrated in-house AI platform for intelligent CAPL script automation, with PostgreSQL for structured data management.
 
 **💰 Donary** — Fundraising platform for nonprofit organizations
-REST APIs and dynamic Angular UIs built on Spring Boot and MySQL.
+REST APIs and dynamic Angular UIs built on Spring Boot and MySQL. Includes template-driven and reactive forms, complex data tables, and dynamic UI components.
+
+**🛠️ Tech breakdown by project:**
+| Project | Frontend | Backend | Database | Cloud |
+|---|---|---|---|---|
+| CarAlert | — | Node.js, Microservices | — | AWS |
+| CSMS | Angular, ApexChart, d3.js | Python, Flask | PostgreSQL | AWS (RDS, EC2, IoT Core, Lambda, Bedrock, S3) |
+| Propulsion AI Tool | Angular | Python, Flask | PostgreSQL | AWS Bedrock |
+| Donary | Angular, Ng-Bootstrap | Spring Boot | MySQL | — |
+
+</details>
 
 ---
 
@@ -80,6 +110,48 @@ REST APIs and dynamic Angular UIs built on Spring Boot and MySQL.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivrajgodle&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivrajgodle&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 📈 Metrics Dashboard
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="Metrics dashboard"/>
+</p>
+
+<sub><i>⚙️ Generated automatically by the <code>metrics.yml</code> workflow — see setup instructions below.</i></sub>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivrajgodle/shivrajgodle/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
+</p>
+
+<sub><i>⚙️ Generated automatically by the <code>snake.yml</code> workflow — see setup instructions below.</i></sub>
+
+---
+
+<details>
+<summary><b>🧰 Full tech stack (click to expand)</b></summary>
+<br/>
+
+**Backend:** Java, Spring Boot, Spring Security, Spring JPA, Hibernate, Node.js, Python, Flask, Microservices, RESTful Web Services
+**Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS, PrimeNG, Angular Material, Ng-Bootstrap, ApexChart, d3.js
+**Databases:** PostgreSQL, MySQL, Oracle
+**Cloud & DevOps:** AWS (EC2, RDS, Lambda, IoT Core, Bedrock, S3), Docker, CI/CD
+**Tools:** Git, Bitbucket, Postman, JUnit, Maven, Asana
+
+</details>
 
 ---
 
