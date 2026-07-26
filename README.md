@@ -20,7 +20,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 Senior Software Engineer at **KPIT Technologies**, working in the automotive/EV domain
-- 💼 Close to **5 years** of experience building scalable, production-grade full-stack applications
+- 💼 **5 years** of experience building scalable, production-grade full-stack applications
 - 🛠️ Core stack: **Java, Spring Boot, Angular, TypeScript, Node.js, PostgreSQL, AWS**
 - 🚗 Domain experience across **automotive cybersecurity, EV charging infrastructure, fintech, and audit platforms**
 - 🌱 Currently deepening my focus on **Java & Spring Boot** for backend-heavy full-stack roles
@@ -61,7 +61,6 @@
   <img src="./github-metrics.svg" alt="Metrics dashboard"/>
 </p>
 
-<sub><i>⚙️ Generated automatically by the <code>metrics.yml</code> workflow — see setup instructions below.</i></sub>
 
 ---
 
@@ -70,8 +69,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivrajgodle/shivrajgodle/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
 </p>
-
-<sub><i>⚙️ Generated automatically by the <code>snake.yml</code> workflow — see setup instructions below.</i></sub>
 
 ---
 
