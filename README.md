@@ -21,7 +21,7 @@
 
 - 🔭 Senior Software Engineer at **KPIT Technologies**, working in the automotive/EV domain
 - 💼 **5 years** of experience building scalable, production-grade full-stack applications
-- 🛠️ Core stack: **Java, Spring Boot, Angular, TypeScript, Node.js, PostgreSQL, AWS**
+- 🛠️ Core stack: **Java, Spring Boot, Angular, TypeScript, PostgreSQL, AWS**
 - 🚗 Domain experience across **automotive cybersecurity, EV charging infrastructure, fintech, and audit platforms**
 - 🌱 Currently deepening my focus on **Java & Spring Boot** for backend-heavy full-stack roles
 - ⚡ I care about clean architecture, structured error handling, and code the next engineer can actually reason about
@@ -76,7 +76,7 @@
 <summary><b>🧰 Full tech stack (click to expand)</b></summary>
 <br/>
 
-**Backend:** Java, Spring Boot, Spring Security, Spring JPA, Hibernate, Node.js, Python, Flask, Microservices, RESTful Web Services
+**Backend:** Java, Spring Boot, Spring Security, Spring JPA, Hibernate, Microservices, RESTful Web Services
 **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS, PrimeNG, Angular Material, Ng-Bootstrap, ApexChart, d3.js
 **Databases:** PostgreSQL, MySQL, Oracle
 **Cloud & DevOps:** AWS (EC2, RDS, Lambda, IoT Core, Bedrock, S3), Docker, CI/CD
