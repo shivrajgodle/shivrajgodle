@@ -3,10 +3,10 @@ name: Generate Metrics Dashboard
 on:
   schedule:
     - cron: "0 3 * * *"   # runs daily at 3 AM UTC
-  workflow_dispatch:        # allows manual trigger from the Actions tab
-  push:
-    branches:
-      - main
+  # workflow_dispatch:        # allows manual trigger from the Actions tab
+  # push:
+  #   branches:
+  #     - main
 
 jobs:
   generate:
