@@ -52,16 +52,6 @@
   <a href="https://junit.org/junit5/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg" alt="junit" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
-
----
-
-### 📈 Metrics Dashboard
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="Metrics dashboard"/>
-</p>
-
-
 ---
 
 ### 🐍 Contribution Snake
