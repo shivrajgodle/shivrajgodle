@@ -19,7 +19,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Senior Software Engineer
+- 🔭 Senior Software Engineer | Java Fullstack Developer
 - 💼 **5 years** of experience building scalable, production-grade full-stack applications
 - 🛠️ Core stack: **Java, Spring Boot, Angular, TypeScript, PostgreSQL, AWS**
 - 🚗 Domain experience across **automotive cybersecurity, EV charging infrastructure, fintech, and audit platforms**
