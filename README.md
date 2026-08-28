@@ -19,7 +19,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Senior Software Engineer at **KPIT Technologies**, working in the automotive/EV domain
+- 🔭 Senior Software Engineer
 - 💼 **5 years** of experience building scalable, production-grade full-stack applications
 - 🛠️ Core stack: **Java, Spring Boot, Angular, TypeScript, PostgreSQL, AWS**
 - 🚗 Domain experience across **automotive cybersecurity, EV charging infrastructure, fintech, and audit platforms**
